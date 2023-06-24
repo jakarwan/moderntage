@@ -1,5 +1,5 @@
 <template>
-  <div id="scrollspySection4" class="bg-pricing">
+  <div id="FormSection" class="bg-pricing">
     <div class="blur-form">
       <div class="row justify-content-center align-items-center h-100">
         <div class="col-lg-7">

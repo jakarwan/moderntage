@@ -29,7 +29,7 @@
           >
             <a
               class="nav-link"
-              href="#scrollspySection1"
+              href="#Service"
               @click="activeFunc('Service')"
               >Service</a
             >
@@ -42,7 +42,7 @@
           >
             <a
               class="nav-link"
-              href="#scrollspySection2"
+              href="#Carousel"
               @click="activeFunc('Carousel')"
               >Carousel</a
             >
@@ -55,7 +55,7 @@
           >
             <a
               class="nav-link"
-              href="#scrollspySection3"
+              href="#Pricing"
               @click="activeFunc('Pricing')"
               >Pricing</a
             >
@@ -68,7 +68,7 @@
           >
             <a
               class="nav-link"
-              href="#scrollspySection4"
+              href="#FormSection"
               @click="activeFunc('From')"
               >From</a
             >

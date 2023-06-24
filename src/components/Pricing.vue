@@ -1,5 +1,5 @@
 <template>
-  <div id="scrollspySection3" class="" ref="pricing">
+  <div id="Pricing" class="" ref="pricing">
     <div
       data-bs-spy="scroll"
       data-bs-target="#navbar-example2"
@@ -9,7 +9,7 @@
     >
       <div class="blur">
         <div class="pricing-header">
-          <h1 id="scrollspySection2"><b>Pricing</b></h1>
+          <h1><b>Pricing</b></h1>
         </div>
         <!-- <div class="container">
       <div class="row">

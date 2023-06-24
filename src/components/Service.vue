@@ -1,5 +1,5 @@
 <template>
-  <div id="scrollspySection1" class="service">
+  <div id="Service" class="service">
     <div class="container">
       <h4 class="text-muted">Our service</h4>
       <h1>Our <b>Awesome</b> Service</h1>

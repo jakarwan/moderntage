@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-carousel" id="scrollspySection2">
+  <div class="bg-carousel" id="Carousel">
     <div class="blur">
       <h1 class="house-design-header">Home Design</h1>
       <div class="hd-box">
